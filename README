@@ -1,5 +1,7 @@
 Raspberry Pi bareback LF/MF/HF/VHF WSPR transmitter
 NB: This fork of the original software has been modified to run on a Pi-4B with Raspbian Buster.
+Also runs and tested on Pi Zero (Raspbian Lite) and Pi 3B+.
+Works through Putty too!
 
 Makes a very simple WSPR beacon from your RasberryPi by connecting GPIO
 port to Antenna (and LPF), operates on LF, MF, HF and VHF bands from
